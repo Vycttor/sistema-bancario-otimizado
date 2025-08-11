@@ -53,7 +53,7 @@ python app.py
 ```
 
 ## Exemplo de uso
-![Demonstração do app](imgs/ex-1.png)
+![Demonstração do app](docs/imgs/ex-1.png)
 
 ## License
 
